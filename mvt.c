@@ -34,13 +34,19 @@ int main() {
 
 //Enter memory required for process 1 (in KB): 200
 //Process 1 allocated. Used memory: 200 KB, Remaining memory: 800 KB
+
 //Do you want to add another process? (1 for Yes / 0 for No): 1
 
-//Enter memory required for process 2 (in KB): 1
-//Process 2 allocated. Used memory: 201 KB, Remaining memory: 799 KB
+//Enter memory required for process 2 (in KB): 300
+//Process 2 allocated. Used memory: 500 KB, Remaining memory: 500 KB
+
+//Do you want to add another process? (1 for Yes / 0 for No): 1
+
+//Enter memory required for process 3 (in KB): 250
+//Process 3 allocated. Used memory: 750 KB, Remaining memory: 250 KB
 
 //Do you want to add another process? (1 for Yes / 0 for No): 0
 
-//Total memory allocated: 201 KB
+//Total memory allocated: 750 KB
 //Total internal fragmentation: 0 KB
-//Total external fragmentation: 799 KB
+//Total external fragmentation: 250 KB

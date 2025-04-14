@@ -33,6 +33,8 @@ int main() {
 
     return 0;
 }
+
+//OUTPUT
 //Enter the number of processes -- 3
 //Enter Burst Time for Process 0 -- 24
 //Enter Burst Time for Process 1 -- 3

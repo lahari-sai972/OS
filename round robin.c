@@ -47,3 +47,17 @@ int main() {
 
     return 0;
 }
+
+//Enter number of processes: 3
+//Enter Burst Time for process 1: 24
+//Enter Burst Time for process 2: 3
+//Enter Burst Time for process 3: 3
+//Enter time quantum: 4
+
+//PROCESS	BURST TIME	WAITING TIME	TURNAROUND TIME
+//1	24		6		30
+//2	3		4		7
+//3	3		7		10
+
+//Average Waiting Time: 5.67
+//Average Turnaround Time: 15.67
